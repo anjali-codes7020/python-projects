@@ -26,7 +26,7 @@ fields.
 
 ## 🖼️ Application Preview
 
-![Smart Password Generator](screenshots/password-generator.png)
+![Smart Password Generator](Screenshot%202026-08-23%20115324.png)
 
 
 ## 🛠️ Tech Stack
