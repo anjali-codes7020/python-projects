@@ -28,8 +28,6 @@ fields.
 
 ![Smart Password Generator](screenshots/password-generator.png)
 
-> **Tip:** Keep the screenshot inside a folder named `screenshots` and
-> rename the image to `password-generator.png`.
 
 ## 🛠️ Tech Stack
 
